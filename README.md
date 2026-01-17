@@ -26,7 +26,7 @@
 METranslator is fully compatible with [LunaTranslator](https://github.com/HIllya51/LunaTranslator), a popular visual novel translator.
 
 To use METranslator as a translation source in LunaTranslator:
-1. Download the adapted configuration file: [**LunaTranslator Selfbuild Script**](YOUR_GITHUB_LINK_HERE)
+1. Download the adapted configuration file: [**LunaTranslator Selfbuild Script**](https://github.com/Marwan087/LunaTranslator-METranslator-Config)
 2. Place this file in your LunaTranslator `userconfig` folder.
 3. Select Custom Translation in the LunaTranslator settings.
 
@@ -152,4 +152,5 @@ Contributions are welcome! If you have suggestions for improvements or encounter
 
 ---
 *Developed with ❤️ for the gaming and translation community.*
+
 
