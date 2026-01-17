@@ -152,11 +152,12 @@ build_release.bat
 ## ✉️ التواصل
 
 **المؤلف:** Marwan Alhamaty
-**البريد الإلكتروني:** marwanalhamaty@gmail.com
+**البريد الإلكتروني:** marwanalhamaty87@gmail.com
 **رابط المشروع:** [https://github.com/Marwan087/METranslator](https://github.com/Marwan087/METranslator)
 
 ---
 *تم التطوير بـ ❤️ لمجتمع الألعاب والترجمة.*
+
 
 
 
