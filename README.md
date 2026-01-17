@@ -102,15 +102,6 @@ To use METranslator as a translation source in LunaTranslator:
 
 ---
 
-## 🏗️ Technology Stack
-
-- **UI Framework:** [PySide6 (Qt for Python)](https://www.qt.io/qt-for-python)
-- **Backend API:** [FastAPI](https://fastapi.tiangolo.com/) & [Uvicorn](https://www.uvicorn.org/)
-- **AI Engine:** [Hugging Face Transformers](https://huggingface.co/docs/transformers/index), [CTranslate2](https://opennmt.net/CTranslate2/), and [ONNX Runtime](https://onnxruntime.ai/)
-- **Models:** Credits to [Helsinki-NLP](https://huggingface.co/Helsinki-NLP), [Google (MADLAD)](https://huggingface.co/google/madlad400-3b-mt), and [Facebook (mBART)](https://huggingface.co/facebook/mbart-large-50-many-to-many-mmt).
-
----
-
 ## �️ How to Build
 
 If you want to build the executable (`.exe`) files yourself, follow these steps:
@@ -138,6 +129,16 @@ This script will:
 
 ---
 
+## 🏗️ Technology Stack
+
+- **UI Framework:** [PySide6 (Qt for Python)](https://www.qt.io/qt-for-python)
+- **Backend API:** [FastAPI](https://fastapi.tiangolo.com/) & [Uvicorn](https://www.uvicorn.org/)
+- **AI Engine:** [Hugging Face Transformers](https://huggingface.co/docs/transformers/index), [CTranslate2](https://opennmt.net/CTranslate2/), and [ONNX Runtime](https://onnxruntime.ai/)
+- **Models:** Credits to [Helsinki-NLP](https://huggingface.co/Helsinki-NLP), [Google (MADLAD)](https://huggingface.co/google/madlad400-3b-mt), and [Facebook (mBART)](https://huggingface.co/facebook/mbart-large-50-many-to-many-mmt).
+
+---
+
+
 ## �📜 License
 
 This project is licensed under the **GNU General Public License v3.0**. See the [LICENSE](LICENSE) file for more details.
@@ -158,6 +159,7 @@ Contributions are welcome! If you have suggestions for improvements or encounter
 
 ---
 *Developed with ❤️ for the gaming and translation community.*
+
 
 
 
