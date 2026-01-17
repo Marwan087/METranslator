@@ -301,7 +301,7 @@ TRANSLATIONS = {
             </li>
         </ul>
 
-        <p dir="rtl">المؤلف: مروان الحماطي البريد الإلكتروني: marwanalhamaty@gmail.com</p>
+        <p dir="rtl">المؤلف: مروان الحماطي البريد الإلكتروني: marwanalhamaty87@gmail.com</p>
         """,
     },
     'en': {
@@ -587,7 +587,7 @@ TRANSLATIONS = {
             </li>
         </ul>
 
-        <p>Author: Marwan Alhamaty Email: marwanalhamaty@gmail.com</p>
+        <p>Author: Marwan Alhamaty Email: marwanalhamaty87@gmail.com</p>
         """,
     },
     'fr': {
@@ -876,7 +876,7 @@ TRANSLATIONS = {
             </li>
         </ul>
 
-        <p>Auteur : Marwan Alhamaty Email: marwanalhamaty@gmail.com</p>
+        <p>Auteur : Marwan Alhamaty Email: marwanalhamaty87@gmail.com</p>
         """,
     },
     'de': {
@@ -1165,7 +1165,7 @@ TRANSLATIONS = {
             </li>
         </ul>
 
-        <p>Autor: Marwan Alhamaty Email: marwanalhamaty@gmail.com</p>
+        <p>Autor: Marwan Alhamaty Email: marwanalhamaty87@gmail.com</p>
         """,
     },
     'es': {
@@ -1454,7 +1454,7 @@ TRANSLATIONS = {
             </li>
         </ul>
 
-        <p>Autor: Marwan Alhamaty Email: marwanalhamaty@gmail.com</p>
+        <p>Autor: Marwan Alhamaty Email: marwanalhamaty87@gmail.com</p>
         """,
     },
     'it': {
@@ -1743,7 +1743,7 @@ TRANSLATIONS = {
             </li>
         </ul>
 
-        <p>Autore: Marwan Alhamaty Email: marwanalhamaty@gmail.com</p>
+        <p>Autore: Marwan Alhamaty Email: marwanalhamaty87@gmail.com</p>
         """,
     },
     'pt': {
@@ -2032,7 +2032,7 @@ TRANSLATIONS = {
             </li>
         </ul>
 
-        <p>Autor: Marwan Alhamaty Email: marwanalhamaty@gmail.com</p>
+        <p>Autor: Marwan Alhamaty Email: marwanalhamaty87@gmail.com</p>
         """,
     },
     'ru': {
@@ -2321,7 +2321,7 @@ TRANSLATIONS = {
             </li>
         </ul>
 
-        <p>Автор: Marwan Alhamaty Email: marwanalhamaty@gmail.com</p>
+        <p>Автор: Marwan Alhamaty Email: marwanalhamaty87@gmail.com</p>
         """,
     },
     'zh': {
@@ -2610,7 +2610,7 @@ TRANSLATIONS = {
             </li>
         </ul>
 
-        <p>作者：Marwan Alhamaty 电子邮件：marwanalhamaty@gmail.com</p>
+        <p>作者：Marwan Alhamaty 电子邮件：marwanalhamaty87@gmail.com</p>
         """,
     },
     'ja': {
@@ -2899,7 +2899,7 @@ TRANSLATIONS = {
             </li>
         </ul>
 
-        <p>作成者：Marwan Alhamaty メール：marwanalhamaty@gmail.com</p>
+        <p>作成者：Marwan Alhamaty メール：marwanalhamaty87@gmail.com</p>
         """,
     },
     'ko': {
@@ -3188,9 +3188,10 @@ TRANSLATIONS = {
             </li>
         </ul>
 
-        <p>작성자: Marwan Alhamaty 이메일: marwanalhamaty@gmail.com</p>
+        <p>작성자: Marwan Alhamaty 이메일: marwanalhamaty87@gmail.com</p>
         """,
     }
     
 
 }
+
