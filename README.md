@@ -153,11 +153,12 @@ Contributions are welcome! If you have suggestions for improvements or encounter
 ## ✉️ Contact
 
 **Author:** Marwan Alhamaty  
-**Email:** marwanalhamaty@gmail.com  
+**Email:** marwanalhamaty87@gmail.com  
 **Project Link:** [https://github.com/Marwan087/METranslator](https://github.com/Marwan087/METranslator)
 
 ---
 *Developed with ❤️ for the gaming and translation community.*
+
 
 
 
