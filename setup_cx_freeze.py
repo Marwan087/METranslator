@@ -29,9 +29,10 @@ setup(
     executables=[
         Executable(
             script="gui_installer.py",          # <-- هذا هو الملف الرئيسي الذي سيتم تجميعه
-            base="Win32GUI",               # <-- لإخفاء نافذة الأوامر للمُشغّل
+            base="gui",               # <-- لإخفاء نافذة الأوامر للمُشغّل
             target_name="METranslator.exe",
             icon=icon_path # <-- الاسم النهائي للملف التنفيذي
         )
     ]
+
 )
