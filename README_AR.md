@@ -26,7 +26,7 @@
 برنامج METranslator متوافق كلياً مع [LunaTranslator](https://github.com/HIllya51/LunaTranslator)، وهو مترجم مشهور للروايات المرئية (Visual Novels).
 
 لاستخدام METranslator كمصدر للترجمة في LunaTranslator:
-1. قم بتحميل ملف الإعداد المعدل: [**LunaTranslator Selfbuild Script**](YOUR_GITHUB_LINK_HERE)
+1. قم بتحميل ملف الإعداد المعدل: [**LunaTranslator Selfbuild Script**](https://github.com/Marwan087/LunaTranslator-METranslator-Config)
 2. ضع هذا الملف داخل مجلد `userconfig` في مسار تثبيت LunaTranslator.
 3. اختر Custom Translation في إعدادات LunaTranslator.
 
@@ -152,4 +152,5 @@ build_release.bat
 
 ---
 *تم التطوير بـ ❤️ لمجتمع الألعاب والترجمة.*
+
 
