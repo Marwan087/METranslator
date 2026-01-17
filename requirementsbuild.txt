@@ -1,0 +1,4 @@
+pyinstaller
+cx_freeze
+certifi
+requests
