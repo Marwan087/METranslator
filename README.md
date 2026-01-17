@@ -74,21 +74,27 @@ To use METranslator as a translation source in LunaTranslator:
 
 ## 🚀 Quick Start
 
-1. **Clone the Repository:**
+1. **Download:**
+   - Download the latest version from [Releases](https://github.com/Marwan087/METranslator/releases).
+   - Extract the archive to your desired location.
+
+   *OR*
+
+2. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/METranslator.git
+   git clone https://github.com/Marwan087/METranslator.git
    cd METranslator
    ```
 
-2. **Run the Installer:**
+3. **Run the Installer/App:**
    Launch `gui_installer.py` (or the compiled `METranslator.exe`). The installer will:
    - Setup a local Python runtime.
    - Install all necessary dependencies (`PySide6`, `requests`, etc.).
 
-3. **Launch the App:**
-   Once installed, run `METranslator.exe` or the desktop shortcut.
+4. **Launch the App:**
+   Once installed, run `METranslator.exe` .
 
-4. **Setup in App:**
+5. **Setup in App:**
    - **Step 1: Environment Setup:** Choose your device type (**CPU** or **GPU**). Click **Start** to install the specific AI libraries (Note: GPU setup may download ~3GB of CUDA libraries).
    - **Step 2: Model Acquisition:** In **Download & Convert**, choose your language pair or a multilingual model (MADLAD/mBART).
    - **Step 3: Optimization (Optional):** Convert models to **CTranslate2** or **ONNX** for maximum performance on your hardware.
@@ -152,5 +158,6 @@ Contributions are welcome! If you have suggestions for improvements or encounter
 
 ---
 *Developed with ❤️ for the gaming and translation community.*
+
 
 
