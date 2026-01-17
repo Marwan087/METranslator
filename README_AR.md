@@ -101,15 +101,6 @@
    - **الخطوة 4: التشغيل:** انتقل إلى **الإعدادات** لتحديد النموذج والجهاز الخاص بك، ثم انقر فوق **تشغيل الخادم** ▶ لبدء الترجمة!
 ---
 
-## 🏗️ التقنيات المستخدمة
-
-- **إطار عمل واجهة المستخدم:** [PySide6 (Qt for Python)](https://www.qt.io/qt-for-python)
-- **واجهة برمجة التطبيقات (API) الخلفية:** [FastAPI](https://fastapi.tiangolo.com/) & [Uvicorn](https://www.uvicorn.org/)
-- **محرك الذكاء الاصطناعي:** [Hugging Face Transformers](https://huggingface.co/docs/transformers/index), [CTranslate2](https://opennmt.net/CTranslate2/), and [ONNX Runtime](https://onnxruntime.ai/)
-- **النماذج:** شكرًا لـ [Helsinki-NLP](https://huggingface.co/Helsinki-NLP), [Google (MADLAD)](https://huggingface.co/google/madlad400-3b-mt), and [Facebook (mBART)](https://huggingface.co/facebook/mbart-large-50-many-to-many-mmt).
-
----
-
 ## 🛠️ كيفية البناء
 
 إذا كنت ترغب في بناء ملفات التنفيذ (`.exe`) بنفسك، فاتبع الخطوات التالية:
@@ -137,6 +128,16 @@ build_release.bat
 
 ---
 
+## 🏗️ التقنيات المستخدمة
+
+- **إطار عمل واجهة المستخدم:** [PySide6 (Qt for Python)](https://www.qt.io/qt-for-python)
+- **واجهة برمجة التطبيقات (API) الخلفية:** [FastAPI](https://fastapi.tiangolo.com/) & [Uvicorn](https://www.uvicorn.org/)
+- **محرك الذكاء الاصطناعي:** [Hugging Face Transformers](https://huggingface.co/docs/transformers/index), [CTranslate2](https://opennmt.net/CTranslate2/), and [ONNX Runtime](https://onnxruntime.ai/)
+- **النماذج:** شكرًا لـ [Helsinki-NLP](https://huggingface.co/Helsinki-NLP), [Google (MADLAD)](https://huggingface.co/google/madlad400-3b-mt), and [Facebook (mBART)](https://huggingface.co/facebook/mbart-large-50-many-to-many-mmt).
+
+---
+
+
 ## 📜 الترخيص
 
 هذا المشروع مرخص بموجب **GNU General Public License v3.0**. راجع ملف [LICENSE](LICENSE) لمزيد من التفاصيل.
@@ -157,6 +158,7 @@ build_release.bat
 
 ---
 *تم التطوير بـ ❤️ لمجتمع الألعاب والترجمة.*
+
 
 
 
