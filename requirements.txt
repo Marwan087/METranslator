@@ -6,3 +6,4 @@ setuptools==80.9.0
 sacremoses==0.1.1
 sentencepiece==0.2.1
 requests==2.32.5
+virtualenv==21.2.0
