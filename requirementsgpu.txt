@@ -1,4 +1,7 @@
-torch==2.6.0 torchvision torchaudio --index-url https://download.pytorch.org/whl/cu124
+--extra-index-url https://download.pytorch.org/whl/cu124
+torch==2.6.0+cu124
+torchvision==0.21.0+cu124
+torchaudio==2.6.0+cu124
 onnx==1.19.0
 fastapi==0.121.1
 uvicorn==0.38.0
